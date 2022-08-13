@@ -1,0 +1,24 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+# My configurations:
+db.ini
+.vscode/
+*.sqlite3
+.idea/
+migrations/
+settings/
+logs/
+manage.py
+wsgi.py
+gunicorn_start
+gunicorn_supervisor.conf
+__pycache__

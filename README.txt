@@ -1,0 +1,1 @@
+通过celery和readis stream实现生产-消费模式队列
